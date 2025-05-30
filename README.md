@@ -1,7 +1,7 @@
 # Automated Stock Exchange System
 
 ## Overview
-This Python program simulates a simple automated stock exchange system where users can create accounts, place bids (buy orders), and asks (sell orders). The system automatically matches compatible bids and asks, executes transactions, and logs all executions.
+This Python program is a course project that simulates an automated stock exchange system. It allows users to create accounts, place buy/sell orders (bids and asks), and automatically matches compatible orders for execution. The system demonstrates core programming concepts including file I/O for data persistence, input validation, object-oriented design, and basic trading algorithms, while maintaining transaction logs and account records.
 
 ## Features
 
