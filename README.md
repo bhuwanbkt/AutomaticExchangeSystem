@@ -50,7 +50,7 @@ The system includes robust input validation for:
 
 ## Files
 
-- `Backbencher.py`: Main program file
+- `Automatic Stock Exchange System.py`: Main program file
 - `accounts4.txt`: Stores account data (created if doesn't exist)
 - `execution_log4.txt`: Logs all executed transactions (created if doesn't exist)
 
